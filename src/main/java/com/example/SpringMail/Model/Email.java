@@ -12,5 +12,5 @@ import org.springframework.stereotype.Component;
 public class Email {
     private String to;
     private String subject;
-    private String body;
+
 }
